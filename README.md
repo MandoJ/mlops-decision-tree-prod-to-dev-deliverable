@@ -13,3 +13,6 @@ pip install -r requirements.txt
 
 ## Run
 Open `deliverable.ipynb` in VS Code and use "Run All".
+
+## PR Note
+Gatekeeper: please install requirements and run deliverable.ipynb (Run All).
